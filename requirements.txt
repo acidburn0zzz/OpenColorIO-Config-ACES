@@ -42,7 +42,7 @@ numpy==1.24.2
 opencolorio==2.2.1
 packaging==23.0
 pathspec==0.11.0
-Pillow==9.4.0
+Pillow==10.3.0
 pip==22.3.1
 pkginfo==1.9.6
 platformdirs==3.0.0
